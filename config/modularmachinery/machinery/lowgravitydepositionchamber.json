@@ -1,6 +1,6 @@
 {
 	"registryname": "lowgravitydepositionchamber",
-    "localizedname": "Low-Gravity Deposition Chamber",
+    "localizedname": "低重力沉积室",
     "requires-blueprint": true,
     "color": "222222",
     "parts": [

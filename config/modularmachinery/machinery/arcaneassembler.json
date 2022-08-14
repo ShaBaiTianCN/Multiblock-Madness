@@ -1,6 +1,6 @@
 {    
     "registryname": "arcane-assembler", 
-    "localizedname": "Arcane Assembler", 
+    "localizedname": "奥术组装机", 
     "requires-blueprint": true,
     "color": "523312",
     "modifiers": [
@@ -9,7 +9,7 @@
             "y": -1,
             "z": -1,
             "elements": "thaumcraft:metal_alchemical_advanced",
-            "description": "Upgrade Constructs to reduce time required by 5%",
+            "description": "升级结构可将所需时间缩短5%",
             "modifier": {
                 "io": "input",
                 "target": "duration",
@@ -22,7 +22,7 @@
             "y": -1,
             "z": -1,
             "elements": "thaumcraft:metal_alchemical_advanced",
-            "description": "Upgrade Constructs to reduce time required by 5%",
+            "description": "升级结构可将所需时间缩短5%",
             "modifier": {
                 "io": "input",
                 "target": "duration",
@@ -35,7 +35,7 @@
             "y": -1,
             "z": 3,
             "elements": "thaumcraft:metal_alchemical_advanced",
-            "description": "Upgrade Constructs to reduce time required by 5%",
+            "description": "升级结构可将所需时间缩短5%",
             "modifier": {
                 "io": "input",
                 "target": "duration",
@@ -48,7 +48,7 @@
             "y": -1,
             "z": 3,
             "elements": "thaumcraft:metal_alchemical_advanced",
-            "description": "Upgrade Constructs to reduce time required by 5%",
+            "description": "升级结构可将所需时间缩短5%",
             "modifier": {
                 "io": "input",
                 "target": "duration",
@@ -61,7 +61,7 @@
             "y": -1,
             "z": 1,
             "elements": "thaumcraft:matrix_speed",
-            "description": "Replace Thaumium Block to reduce time required by 20%",
+            "description": "更换神秘块，所需时间减少20%",
             "modifier": {
                 "io": "input",
                 "target": "duration",
@@ -74,7 +74,7 @@
             "y": -1,
             "z": 1,
             "elements":  "thaumcraft:matrix_cost",
-            "description": "Replace Thaumium Block to reduce input fluid by 20%",
+            "description": "更换神秘块，所需流体减少20%",
             "modifier": {
                 "io": "input",
                 "target": "fluid",
@@ -87,7 +87,7 @@
             "y": -1,
             "z": 1,
             "elements":  "thaumadditions:mithminite_block",
-            "description": "Replace Thaumium Block to reduce input fluid and crafting time by 30%",
+            "description": "更换神秘块，所需时间和合成时间减少30%",
             "modifiers": [
                 {
                     "io": "input",

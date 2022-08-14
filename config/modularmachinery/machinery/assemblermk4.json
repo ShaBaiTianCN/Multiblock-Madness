@@ -1,6 +1,6 @@
 {
 	"registryname": "assemblermkfour",
-    "localizedname": "Mass Manufacturer",
+    "localizedname": "质量发生器",
     "requires-blueprint": true,
     "color": "F5F5F5",
     "modifiers": [
@@ -9,7 +9,7 @@
             "y": 1,
             "z": 1,
             "elements": "extendedcrafting:storage@4",
-            "description": "Multiplies recipes' input and output by 2, 2x Power Consumption",
+            "description": "将配方的输入和输出乘以 2 倍、2 倍功耗",
             "modifiers": [
             {
                 "io": "input",
@@ -42,7 +42,7 @@
             "y": 1,
             "z": 1,
             "elements": "avaritia:block_resource@0",
-            "description": "Multiplies recipes' input and output by 4, 3x Power Consumption",
+            "description": "将配方的输入和输出乘以 4、3 倍功耗",
             "modifiers": [
                 {
                     "io": "input",
@@ -75,7 +75,7 @@
             "y": 1,
             "z": 1,
             "elements": "avaritia:block_resource@1",
-            "description": "Multiplies recipes' input and output by 16, 25% chance to not consume fluid, 4x Power Consumption",
+            "description": "将配方的输入和输出乘以 16，25% 的几率不消耗液体，4 倍的功耗",
             "modifiers": [
                 {
                     "io": "input",

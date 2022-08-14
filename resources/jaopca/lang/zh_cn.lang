@@ -1,5 +1,5 @@
-tile.jaopca.growthcatalyst.name=%s Growth Catalyst
-tile.jaopca.sheetmetal.name=%s Sheetmetal
-tile.jaopca.scaffolding.name=%s Scaffolding
-item.jaopca.crushedlump.name=Lump of %s
-item.jaopca.leachedshard.name=%s Shard
+tile.jaopca.growthcatalyst.name=%s 生长催化剂
+tile.jaopca.sheetmetal.name=%s板方块
+tile.jaopca.scaffolding.name=%s脚手架
+item.jaopca.crushedlump.name=%s碎块
+item.jaopca.leachedshard.name=%s碎片

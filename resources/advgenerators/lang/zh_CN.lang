@@ -1,23 +1,23 @@
 // === Turbine Materials
 
 
-item.advgenerators.turbine_blade_hslasteel.name=HSLA Steel Turbine Blade
-item.advgenerators.turbine_rotor_hslasteel.name=HSLA Steel Turbine Rotor
-item.advgenerators.turbine_kit_hslasteel.name=HSLA Steel Turbine Upgrade Kit
-tile.advgenerators.turbine_hslasteel.name=HSLA Steel Turbine
+item.advgenerators.turbine_blade_hslasteel.name=高强度低合金钢涡轮叶片
+item.advgenerators.turbine_rotor_hslasteel.name=高强度低合金钢涡轮转子
+item.advgenerators.turbine_kit_hslasteel.name=高强度低合金钢转子升级组件
+tile.advgenerators.turbine_hslasteel.name=高强度低合金钢涡轮机
 
-item.advgenerators.turbine_blade_extreme.name=Extreme Alloy Turbine Blade
-item.advgenerators.turbine_rotor_extreme.name=Extreme Alloy Turbine Rotor
-item.advgenerators.turbine_kit_extreme.name=Extreme Alloy Turbine Upgrade Kit
-tile.advgenerators.turbine_extreme.name=Extreme Alloy Turbine
+item.advgenerators.turbine_blade_extreme.name=极限合金涡轮叶片
+item.advgenerators.turbine_rotor_extreme.name=极限合金涡轮转子
+item.advgenerators.turbine_kit_extreme.name=极限合金转子升级组件
+tile.advgenerators.turbine_extreme.name=极限合金涡轮机
 
-item.advgenerators.turbine_blade_super.name=Super Alloy Turbine Blade
-item.advgenerators.turbine_rotor_super.name=Super Alloy Turbine Rotor
-item.advgenerators.turbine_kit_super.name=Super Alloy Turbine Upgrade Kit
-tile.advgenerators.turbine_super.name=Super Alloy Turbine
+item.advgenerators.turbine_blade_super.name=超级合金涡轮叶片
+item.advgenerators.turbine_rotor_super.name=超级合金涡轮转子
+item.advgenerators.turbine_kit_super.name=超级合金转子升级组件
+tile.advgenerators.turbine_super.name=超级合金涡轮机
 
-item.advgenerators.turbine_blade_smore.name=S'more Turbine Blade
-item.advgenerators.turbine_rotor_smore.name=S'more Turbine Rotor
-item.advgenerators.turbine_kit_smore.name=S'more Turbine Upgrade Kit
-tile.advgenerators.turbine_smore.name=S'more Turbine
+item.advgenerators.turbine_blade_smore.name=饼干巧克力夹棉花糖涡轮叶片
+item.advgenerators.turbine_rotor_smore.name=饼干巧克力夹棉花糖涡轮转子
+item.advgenerators.turbine_kit_smore.name=饼干巧克力夹棉花糖转子升级组件
+tile.advgenerators.turbine_smore.name=饼干巧克力夹棉花糖涡轮机
 

@@ -1,6 +1,6 @@
 {
 	"registryname": "assemblermktwo",
-    "localizedname": "Advanced Assembling Machine",
+    "localizedname": "高级组装机",
     "requires-blueprint": true,
     "color": "B0B0B0",
     "modifiers": [
@@ -9,7 +9,7 @@
             "y": 1,
             "z": 1,
             "elements": "thermalfoundation:storage@7",
-            "description": "3x Speed, 4x Power Consumption",
+            "description": "3 倍速度，4 倍功耗",
             "modifiers": [
             {
                 "io": "input",
@@ -30,7 +30,7 @@
             "y": 1,
             "z": 1,
             "elements": "techreborn:storage2@0",
-            "description": "1.5x Speed, 3x Power Consumption",
+            "description": "1.5 倍速度，3 倍功耗",
             "modifiers": [
             {
                 "io": "input",
@@ -51,7 +51,7 @@
             "y": 1,
             "z": 1,
             "elements": "plustic:osmiridiumblock@0",
-            "description": "3.75x Speed, 7.5x Power Consumption",
+            "description": "3.75 倍速度，7.5 倍功耗",
             "modifiers": [
             {
                 "io": "input",
@@ -72,7 +72,7 @@
             "y": 1,
             "z": 1,
             "elements": "enderio:block_alloy_endergy@3",
-            "description": "4.8x Speed, 1.2x Fluid Consumption, 10.8x Power Consumption",
+            "description": "4.8 倍速度、1.2 倍流体、10.8 倍功耗",
             "modifiers": [
             {
                 "io": "input",
@@ -99,7 +99,7 @@
             "y": 1,
             "z": [0,2],
             "elements": "techreborn:machine_casing@2",
-            "description": "Upgrade Casings to lower time required.",
+            "description": "升级外壳以缩短所需时间。",
             "modifiers": [
             {
                 "io": "input",
@@ -114,7 +114,7 @@
             "y": 1,
             "z": [0,2],
             "elements": "techreborn:fusion_coil",
-            "description": "Upgrade Casings to lower time required.",
+            "description": "升级外壳以缩短所需时间。",
             "modifiers": [
             {
                 "io": "input",

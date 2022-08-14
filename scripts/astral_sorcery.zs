@@ -32,7 +32,7 @@ Grinder.addRecipe(<astralsorcery:itemcraftingcomponent:2>, <astralsorcery:blockc
 
 
 //<astralsorcery:blockinfusedwood>.addTooltip(format.aqua("Drop any log into liquid Starlight to create"));
-<astralsorcery:itemcelestialcrystal>.addTooltip(format.aqua("Grows from a Celestal Crystal Cluster"));
+<astralsorcery:itemcelestialcrystal>.addTooltip(format.aqua("从天体晶体簇生长而来"));
 
 //Wand with no starlight
 recipes.addShaped(<astralsorcery:itemwand>, [[null, <astralsorcery:itemcraftingcomponent>, <arcanearchives:shaped_quartz>],[null, <ore:stoneMarble>, <astralsorcery:itemcraftingcomponent>], [<ore:stoneMarble>, null, null]]);

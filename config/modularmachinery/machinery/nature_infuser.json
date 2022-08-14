@@ -1,7 +1,7 @@
 
 {
     "registryname": "nature_infuser",
-    "localizedname": "Nature Infuser",
+    "localizedname": "自然注入机",
     "requires-blueprint": true,
     "color": "4f4f4f",
     "parts": [

@@ -1,6 +1,6 @@
 {
         "registryname": "heavens-forge",
-    "localizedname": "Forge of the Heavens",
+    "localizedname": "天堂锻造锤",
     "requires-blueprint": true,
     "color": "411e57",
     "modifiers": [
@@ -9,7 +9,7 @@
             "y": [0,1],
             "z": [0,2],
             "elements": "extendedcrafting:lamp@1",
-            "description": "Add Luminessence to the Midnight Frames to lower time required.",
+            "description": "将流明精华加到暗影框架以缩短所需的时间。",
             "modifier": {
                 "io": "input",
                 "target": "duration",
@@ -22,7 +22,7 @@
             "y": 2,
             "z": 1,
             "elements": "avaritia:block_resource@2",
-            "description": "Replace Crystaltine block to halve fluid required.",
+            "description": "更换水晶矩阵块以将所需液体减半。",
             "modifier": {
                 "io": "input",
                 "target": "fluid",

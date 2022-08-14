@@ -1,6 +1,6 @@
 {    
     "registryname": "mixer", 
-    "localizedname": "The Mixer", 
+    "localizedname": "搅拌机", 
     "requires-blueprint": true, 
     "color": "5e5542",
     "modifiers": [
@@ -9,7 +9,7 @@
             "y": -1,
             "z": 2,
             "elements": "thermalfoundation:storage_alloy@1",
-            "description": "2x speed when replacing center block",
+            "description": "更换中心块时速度为 2 倍",
             "modifiers": [
             {
                 "io": "input",

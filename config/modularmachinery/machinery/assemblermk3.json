@@ -1,6 +1,6 @@
 {
 	"registryname": "assemblermkthree",
-    "localizedname": "Elite Assembling Machine",
+    "localizedname": "精英组装机",
     "requires-blueprint": true,
     "color": "4F4F4F",
     "modifiers": [
@@ -9,7 +9,7 @@
             "y": 1,
             "z": 1,
             "elements": "extendedcrafting:storage@3",
-            "description": "2x Speed, 2.66x Power Consumption",
+            "description": "2 倍速度，2.66 倍功耗",
             "modifiers": [
             {
                 "io": "input",
@@ -30,7 +30,7 @@
             "y": 1,
             "z": 1,
             "elements": "extendedcrafting:storage@7",
-            "description": "2.5x Speed, 5x Power Consumption",
+            "description": "2.5 倍速度，5 倍功耗",
             "modifiers": [
             {
                 "io": "input",
@@ -51,7 +51,7 @@
             "y": 1,
             "z": 1,
             "elements": "avaritia:block_resource@2",
-            "description": "3x Speed, 4x Power Consumption",
+            "description": "3 倍速度，4 倍功耗",
             "modifiers": [
             {
                 "io": "input",
@@ -72,7 +72,7 @@
             "y": 1,
             "z": 1,
             "elements": "extendedcrafting:storage@4",
-            "description": "3.75x Speed, 1.3x Fluid Consumption, 7.5x Power Consumption",
+            "description": "3.75 倍速度、1.3 倍流体、7.5 倍功耗",
             "modifiers": [
             {
                 "io": "input",
@@ -99,7 +99,7 @@
             "y": 1,
             "z": [0,2],
             "elements": "techreborn:fusion_coil",
-            "description": "Upgrade Casings to lower time required.",
+            "description": "升级外壳以缩短所需时间。",
             "modifiers": [
             {
                 "io": "input",
@@ -114,7 +114,7 @@
             "y": 1,
             "z": 1,
             "elements": "techreborn:fusion_coil",
-            "description": "Upgrade Casings to lower time required.",
+            "description": "升级外壳以缩短所需时间。",
             "modifiers": [
             {
                 "io": "input",

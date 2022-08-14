@@ -1,6 +1,6 @@
 {
     "registryname": "minifield-crafter",
-    "localizedname": "3D Crafter",
+    "localizedname": "3D合成机",
     "requires-blueprint": true,
     "color": "757575",
     "modifiers": [
@@ -9,7 +9,7 @@
             "y": 0,
             "z": [1,7],
             "elements": "techreborn:machine_casing@1",
-            "description": "Upgrade Casings to lower time required. Will increase RF/t.",
+            "description": "升级外壳以缩短所需时间。将增加RF/t。",
             "modifiers": [
             {
                 "io": "input",
@@ -30,7 +30,7 @@
             "y": 0,
             "z": [2,3,4,5,6],
             "elements": "techreborn:machine_casing@1",
-            "description": "Upgrade Casings to lower time required. Will increase RF/t.",
+            "description": "升级外壳以缩短所需时间。将增加RF/t。",
             "modifiers": [
                 {
                     "io": "input",
@@ -51,7 +51,7 @@
             "y": 0,
             "z": [1,7],
             "elements": "techreborn:machine_casing@2",
-            "description": "Upgrade Casings to lower time required. Will increase RF/t.",
+            "description": "升级外壳以缩短所需时间。将增加RF/t。",
             "modifiers": [
                 {
                     "io": "input",
@@ -72,7 +72,7 @@
             "y": 0,
             "z": [2,3,4,5,6],
             "elements": "techreborn:machine_casing@2",
-            "description": "Upgrade Casings to lower time required. Will increase RF/t.",
+            "description": "升级外壳以缩短所需时间。将增加RF/t。",
             "modifiers": [
                 {
                     "io": "input",
@@ -93,7 +93,7 @@
             "y": 0,
             "z": [1,7],
             "elements": "techreborn:fusion_coil@0",
-            "description": "Upgrade Casings to lower time required. Will increase RF/t.",
+            "description": "升级外壳以缩短所需时间。将增加RF/t。",
             "modifiers": [
                 {
                     "io": "input",
@@ -114,7 +114,7 @@
             "y": 0,
             "z": [2,3,4,5,6],
             "elements": "techreborn:fusion_coil@0",
-            "description": "Upgrade Casings to lower time required. Will increase RF/t.",
+            "description": "升级外壳以缩短所需时间。将增加RF/t。",
             "modifiers": [
                 {
                     "io": "input",

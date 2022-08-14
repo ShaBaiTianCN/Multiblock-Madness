@@ -1,6 +1,6 @@
 {    
     "registryname": "mixer-dust", 
-    "localizedname": "The Mixer MK2", 
+    "localizedname": "搅拌机MK2", 
     "requires-blueprint": true, 
     "color": "5e5542",
     "parts": [
