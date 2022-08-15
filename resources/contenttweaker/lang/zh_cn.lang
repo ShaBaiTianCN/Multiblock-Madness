@@ -22,128 +22,128 @@ item.contenttweaker.goldfoil.name=金箔
 item.contenttweaker.foil_electrum.name=琥珀金箔
 
 
-item.contenttweaker.aluminumcasing.name=Aluminum外壳
-item.contenttweaker.inert_ingot.name=Inert锭
-item.contenttweaker.rod_bam.name=BAM杆
-item.contenttweaker.rod_scal.name=ScAl杆
-item.contenttweaker.rod_vanasteel.name=Vanasteel杆
-item.contenttweaker.rod_nimonic.name=Nimonic杆 
-item.contenttweaker.rod_ironwood.name=Ironwood杆 
-item.contenttweaker.greatwood_handle.name=Greatwood棍
-item.contenttweaker.slatedust.name=§eCrushed Slate
-item.contenttweaker.activatedaspectuscopper.name=Infused Copper之元素象征
-item.contenttweaker.activatedaspectussilver.name=Infused Silver之元素象征
-item.contenttweaker.activatedaspectusdawnstone.name=Infused Dawnstone之元素象征
+item.contenttweaker.aluminumcasing.name=铝外壳
+item.contenttweaker.inert_ingot.name=惰性锭
+item.contenttweaker.rod_bam.name=硼铝镁合金杆
+item.contenttweaker.rod_scal.name=钪铝合金杆
+item.contenttweaker.rod_vanasteel.name=铬钒钢杆
+item.contenttweaker.rod_nimonic.name=铌锰合金杆 
+item.contenttweaker.rod_ironwood.name=铁树杆 
+item.contenttweaker.greatwood_handle.name=宏伟之木棍
+item.contenttweaker.slatedust.name=§e粉碎的板岩
+item.contenttweaker.activatedaspectuscopper.name=注入的铜之元素象征
+item.contenttweaker.activatedaspectussilver.name=注入的银之元素象征
+item.contenttweaker.activatedaspectusdawnstone.name=注入的黎明石之元素象征
 
-item.contenttweaker.aspectus_gold.name=Gold之元素象征
-item.contenttweaker.aspectus_tin.name=Tin之元素象征
-item.contenttweaker.aspectus_nickel.name=Nickel之元素象征
+item.contenttweaker.aspectus_gold.name=金之元素象征
+item.contenttweaker.aspectus_tin.name=锡之元素象征
+item.contenttweaker.aspectus_nickel.name=镍之元素象征
 
-item.contenttweaker.token_tier1.name=Tier 1 Token
-item.contenttweaker.token_tier2.name=Tier 2 Token
-item.contenttweaker.token_tier3.name=Tier 3 Token
-item.contenttweaker.token_tier4.name=Tier 4 Token
-item.contenttweaker.token_tier5.name=Tier 5 Token
-item.contenttweaker.token_tier6.name=Tier 6 Token
-item.contenttweaker.token_tier7.name=Tier 7 Token
-item.contenttweaker.token_tier8.name=Tier 8 Token
+item.contenttweaker.token_tier1.name=阶段1令牌
+item.contenttweaker.token_tier2.name=阶段2令牌
+item.contenttweaker.token_tier3.name=阶段3令牌
+item.contenttweaker.token_tier4.name=阶段4令牌
+item.contenttweaker.token_tier5.name=阶段5令牌
+item.contenttweaker.token_tier6.name=阶段6令牌
+item.contenttweaker.token_tier7.name=阶段7令牌
+item.contenttweaker.token_tier8.name=阶段8令牌
 
-item.contenttweaker.adamantine_ingot.name=Adamantine锭
-item.contenttweaker.orichalcum_ingot.name=Orichalcum锭
-item.contenttweaker.palladium_ingot.name=Palladium锭
-item.contenttweaker.terrasteel_coil.name=Terrasteel Heating Coil
-item.contenttweaker.gearcrushinginvar.name=Invar Crushing Gear
-item.contenttweaker.gearcrushingsteel.name=Steel Crushing Gear
-item.contenttweaker.gearcrushingdarksteel.name=Dark Steel Crushing Gear
-item.contenttweaker.gearcrushingcortensteel.name=Corten Steel Crushing Gear
-item.contenttweaker.gearcrushingvanasteel.name=Vanasteel Crushing Gear
+item.contenttweaker.adamantine_ingot.name=精金锭
+item.contenttweaker.orichalcum_ingot.name=山铜锭
+item.contenttweaker.palladium_ingot.name=钯锭
+item.contenttweaker.terrasteel_coil.name=泰拉钢加热线圈
+item.contenttweaker.gearcrushinginvar.name=殷钢粉碎齿轮
+item.contenttweaker.gearcrushingsteel.name=钢粉碎齿轮
+item.contenttweaker.gearcrushingdarksteel.name=玄钢粉碎齿轮
+item.contenttweaker.gearcrushingcortensteel.name=耐候钢粉碎齿轮
+item.contenttweaker.gearcrushingvanasteel.name=铬钒钢粉碎齿轮
 
-item.contenttweaker.agitatorinvar.name=Invar搅拌器
-item.contenttweaker.agitatorsteel.name=Steel搅拌器
-item.contenttweaker.agitatordarksteel.name=Dark Steel搅拌器
-item.contenttweaker.agitatorhydronalium.name=Hydronalium搅拌器
-item.contenttweaker.agitatorhastelloy.name=Hastelloy搅拌器
+item.contenttweaker.agitatorinvar.name=殷钢搅拌器
+item.contenttweaker.agitatorsteel.name=钢搅拌器
+item.contenttweaker.agitatordarksteel.name=玄钢搅拌器
+item.contenttweaker.agitatorhydronalium.name=铝镁合金搅拌器
+item.contenttweaker.agitatorhastelloy.name=哈氏合金搅拌器
 
-item.contenttweaker.foilinvar.name=Invar箔
-item.contenttweaker.foilsteel.name=Steel箔
-item.contenttweaker.foildarksteel.name=Dark Steel箔
-item.contenttweaker.foilhydronalium.name=Hydronalium箔
+item.contenttweaker.foilinvar.name=殷钢箔
+item.contenttweaker.foilsteel.name=钢箔
+item.contenttweaker.foildarksteel.name=玄钢箔
+item.contenttweaker.foilhydronalium.name=铝镁合金箔
 
-item.contenttweaker.rodinvar.name=Invar杆
-item.contenttweaker.rodsteel.name=Steel杆
-item.contenttweaker.roddarksteel.name=Dark Steel杆
-item.contenttweaker.rodhydronalium.name=Hydronalium杆
+item.contenttweaker.rodinvar.name=殷钢杆
+item.contenttweaker.rodsteel.name=钢杆
+item.contenttweaker.roddarksteel.name=玄钢杆
+item.contenttweaker.rodhydronalium.name=铝镁合金杆
 
-item.contenttweaker.blood_crystal.name=Blood水晶
-item.contenttweaker.adaptive_ingot.name=Adaptive锭
-item.contenttweaker.casingsteel.name=Steel外壳
-item.contenttweaker.casingplatinum.name=Platinum外壳
-item.contenttweaker.purpleprint.name=§5Multiblock Visualizer
-item.contenttweaker.vis_meal.name=§5Crystal Growth Powder
-
-
-item.contenttweaker.solar_ingot.name=§6Solar锭
-item.contenttweaker.solar_shard.name=§6Solar Fragment
-
-item.contenttweaker.ichor.name=§6Ichor
-
-item.contenttweaker.time_artifact.name=§2Vibrant Relic
-
-item.contenttweaker.sanctified_ash.name=§eSanctified Ashes
-
-item.contenttweaker.ingot_xp.name=XP Infused Glowstone
-tile.contenttweaker.block_xp.name=Block of XP Infused Glowstone
-
-fluid.moltenembers=Molten Embers
-fluid.moltenbedrock=Molten Bedrock
-fluid.moltentokeniron=Essence of Tier 1
-fluid.moltentokenbronze=Essence of Tier 2
-fluid.moltentokensteel=Essence of Tier 3
-fluid.moltentokenrefinediron=Essence of Tier 4
-fluid.moltentokenosmium=Essence of Tier 5
-fluid.moltentokeniridium=Essence of Tier 6
-fluid.moltentokenultimate=Essence of Tier 7
-fluid.moltentokeninfinity=Essence of Tier 8
-
-fluid.neutronic_matrix=Supercritical Neutronic Matrix
-fluid.incoherent_matrix=Sublimated Incoherent Matrix
-fluid.neutronium=Cosmic Neutronium
-
-fluid.uu_matter=Decompressed UU Matter
-
-item.contenttweaker.compressed_chrome.name=Compressed Chrome
-
-item.contenttweaker.matrix_deposition_+.name=Positive Deposition Matrix
-item.contenttweaker.matrix_deposition_-.name=Negative Deposition Matrix
-item.contenttweaker.neutronic.name=§l§8Neutronic Matrix
-item.contenttweaker.incoherent.name=§l§cIncoherent Matrix
-
-qmd.particle.filon.name=Filon
-qmd.particle.filon.desc=Ultimate cosmic power!
-
-tile.contenttweaker.sooty_block.name=Soot Covered外壳
-tile.contenttweaker.advanced_redstone_block.name=Enhanced Redstone Block
+item.contenttweaker.blood_crystal.name=血水晶
+item.contenttweaker.adaptive_ingot.name=适应性锭
+item.contenttweaker.casingsteel.name=钢外壳
+item.contenttweaker.casingplatinum.name=铂外壳
+item.contenttweaker.purpleprint.name=§5多方块可视化工具
+item.contenttweaker.vis_meal.name=§5晶体生长粉
 
 
+item.contenttweaker.solar_ingot.name=§6太阳锭
+item.contenttweaker.solar_shard.name=§6太阳碎片
 
-item.contenttweaker.lazurite_gem.name=Lazurite Gem
-item.contenttweaker.limestone_flux.name=Limestone Flux
-item.contenttweaker.noon_ingot.name=Daybound锭
-item.contenttweaker.tarred_ingot.name=Combustible锭
-item.contenttweaker.pristine_dust.name=Pristine Matter Powder
+item.contenttweaker.ichor.name=§6灵液
 
-item.contenttweaker.primordial_mote.name=Primordial Mote
+item.contenttweaker.time_artifact.name=§2充满活力的遗迹
+
+item.contenttweaker.sanctified_ash.name=§e圣灰
+
+item.contenttweaker.ingot_xp.name=经验注入的萤石锭
+tile.contenttweaker.block_xp.name=经验注入的萤石块
+
+fluid.moltenembers=熔融余烬
+fluid.moltenbedrock=熔融基岩
+fluid.moltentokeniron=阶段1精华
+fluid.moltentokenbronze=阶段2精华
+fluid.moltentokensteel=阶段3精华
+fluid.moltentokenrefinediron=阶段4精华
+fluid.moltentokenosmium=阶段5精华
+fluid.moltentokeniridium=阶段6精华
+fluid.moltentokenultimate=阶段7精华
+fluid.moltentokeninfinity=阶段8精华
+
+fluid.neutronic_matrix=超临界中子矩阵
+fluid.incoherent_matrix=升华不相干矩阵
+fluid.neutronium=宇宙中子素
+
+fluid.uu_matter=解压UU物质
+
+item.contenttweaker.compressed_chrome.name=压缩铬
+
+item.contenttweaker.matrix_deposition_+.name=正沉积基质
+item.contenttweaker.matrix_deposition_-.name=负沉积基质
+item.contenttweaker.neutronic.name=§l§8中子矩阵
+item.contenttweaker.incoherent.name=§l§c不相干矩阵
+
+qmd.particle.filon.name=菲隆
+qmd.particle.filon.desc=终极寰宇力量！
+
+tile.contenttweaker.sooty_block.name=烟灰覆盖外壳
+tile.contenttweaker.advanced_redstone_block.name=增强型红石块
 
 
-tile.contenttweaker.elemental_soil.name=Elemental Soil
+
+item.contenttweaker.lazurite_gem.name=天青石宝石
+item.contenttweaker.limestone_flux.name=石灰石助焊剂
+item.contenttweaker.noon_ingot.name=日程锭
+item.contenttweaker.tarred_ingot.name=易燃锭
+item.contenttweaker.pristine_dust.name=原始物质粉
+
+item.contenttweaker.primordial_mote.name=原始幼体
 
 
-item.contenttweaker.stable_celestial_crystal.name=§1Stable Celestial水晶
-item.contenttweaker.terrestrial_crystal.name=Terrestrial水晶
+tile.contenttweaker.elemental_soil.name=元素土壤
+
+
+item.contenttweaker.stable_celestial_crystal.name=§1稳定天体水晶
+item.contenttweaker.terrestrial_crystal.name=泰拉水晶
 item.contenttweaker.dun_crystal.name=Dun水晶
-item.contenttweaker.falling_tower.name=Meteor
-item.contenttweaker.angelring_fake.name=Fake Angel Ring
-item.contenttweaker.blank_matter.name=Reactive Matter
+item.contenttweaker.falling_tower.name=陨石
+item.contenttweaker.angelring_fake.name=假天使指环
+item.contenttweaker.blank_matter.name=反应物质
 
 
 fluid.blended_diesel=Diesel Blend
