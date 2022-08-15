@@ -1,11 +1,11 @@
 <!-- markdownlint-disable MD033 -->
 # Multiblock Madness
 
-[![Name](https://img.shields.io/badge/CurseForge-multiblock-madness-F16436)](https://www.curseforge.com/minecraft/modpacks/multiblock-madness)
+[![Multiblock Madness](https://img.shields.io/badge/CurseForge-Multiblock%20Madness-F16436)](https://www.curseforge.com/minecraft/modpacks/multiblock-madness)
 [![Website](https://shields.io/website?up_message=anyijun.com&url=http://anyijun.com&label=Website)](http://anyijun.com)
-[![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-blue)](https://github.com/ShaBaiTianCN/Modpack/blob/master/LICENSE)
-[![Downloads](https://shields.io/github/downloads/ShaBaiTianCN/MultiblockMadness-Translation/total?label=Downloads)](https://github.com/ShaBaiTianCN/Modpack/releases)
-[![Release](https://shields.io/github/v/release/ShaBaiTianCN/MultiblockMadness-Translation?display_name=tag&include_prereleases&label=Release)](https://github.com/ShaBaiTianCN/Modpack/releases/latest)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-blue)](https://github.com/ShaBaiTianCN/Multiblock-Madness/blob/master/LICENSE)
+[![Downloads](https://shields.io/github/downloads/ShaBaiTianCN/Multiblock-Madness/total?label=Downloads)](https://github.com/ShaBaiTianCN/Multiblock-Madness/releases)
+[![Release](https://shields.io/github/v/release/ShaBaiTianCN/Multiblock-Madness?display_name=tag&include_prereleases&label=Release)](https://github.com/ShaBaiTianCN/Multiblock-Madness/releases/latest)
 
 ## 仓库说明
 
