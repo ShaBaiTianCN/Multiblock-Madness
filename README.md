@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
-# Modpack
+# Multiblock Madness
 
-[![Name](https://img.shields.io/badge/CurseForge-Name-F16436)](https://www.curseforge.com/minecraft/modpacks/projectName)
+[![Name](https://img.shields.io/badge/CurseForge-Multiblock Madness-F16436)](https://www.curseforge.com/minecraft/modpacks/multiblock-madness)
 [![Website](https://shields.io/website?up_message=anyijun.com&url=http://anyijun.com&label=Website)](http://anyijun.com)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-blue)](https://github.com/ShaBaiTianCN/Modpack/blob/master/LICENSE)
 [![Downloads](https://shields.io/github/downloads/ShaBaiTianCN/Modpack/total?label=Downloads)](https://github.com/ShaBaiTianCN/Modpack/releases)
