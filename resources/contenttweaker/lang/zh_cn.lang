@@ -146,78 +146,78 @@ item.contenttweaker.angelring_fake.name=假天使指环
 item.contenttweaker.blank_matter.name=反应物质
 
 
-fluid.blended_diesel=Diesel Blend
-fluid.boosted_diesel=Boosted Diesel
+fluid.blended_diesel=混合柴油
+fluid.boosted_diesel=增压柴油
 
 
-item.contenttweaker.crystal_lattice.name=Crystal Lattice
-item.contenttweaker.starmetal_cluster.name=Starmetal Cluster
-item.contenttweaker.clump_titanium.name=Crystalized Titanium
+item.contenttweaker.crystal_lattice.name=晶格
+item.contenttweaker.starmetal_cluster.name=星辉簇
+item.contenttweaker.clump_titanium.name=晶化钛
 
-item.contenttweaker.gear_modularium.name=Modularium Gear
-item.contenttweaker.plate_modularium.name=Modularium Plate
+item.contenttweaker.gear_modularium.name=模块化合金齿轮
+item.contenttweaker.plate_modularium.name=模块化合金板
 
-item.contenttweaker.prepared_starmetal.name=Starmetal-Plated Platinum
-item.contenttweaker.ingot_reinforced_starmetal.name=§9Reinforced Starmetal
+item.contenttweaker.prepared_starmetal.name=镀星辉铂
+item.contenttweaker.ingot_reinforced_starmetal.name=§9强化星辉锭
 
-item.contenttweaker.stacc_thermal_alloy.name=Mixed Thermal锭
-item.contenttweaker.hot_thermal_alloy.name=Energized Thermal Alloy
-item.contenttweaker.ingot_thermal_alloy.name=§bHardened Thermalloy
-item.contenttweaker.plate_thermal_alloy.name=§bHardened Thermalloy Plate
-item.contenttweaker.gear_thermal_alloy.name=§bHardened Thermalloy Gear
-item.contenttweaker.rod_thermal_alloy.name=§bHardened Thermalloy杆
-tile.contenttweaker.block_thermal_alloy.name=§bBlock of Hardened Thermalloy
-tile.contenttweaker.scaffolding_thermal_alloy.name=§bHardened Thermalloy脚手架
-tile.contenttweaker.sheetmetal_thermal_alloy.name=§bHardened Thermalloy板方块
-
-
-item.contenttweaker.hot_cobalt.name=Reactive Cobalt锭
-fluid.base_mirion=Mirion Base
-fluid.prepared_mirion=Prepared Mirion Fluid
+item.contenttweaker.stacc_thermal_alloy.name=混合热锭
+item.contenttweaker.hot_thermal_alloy.name=充能热合金
+item.contenttweaker.ingot_thermal_alloy.name=§b硬化热合金
+item.contenttweaker.plate_thermal_alloy.name=§b硬化热合金板
+item.contenttweaker.gear_thermal_alloy.name=§b硬化热合金齿轮
+item.contenttweaker.rod_thermal_alloy.name=§b硬化热合金杆
+tile.contenttweaker.block_thermal_alloy.name=§b硬化热合金块
+tile.contenttweaker.scaffolding_thermal_alloy.name=§b硬化热合金脚手架
+tile.contenttweaker.sheetmetal_thermal_alloy.name=§b硬化热合金板方块
 
 
-item.contenttweaker.ingot_staballoy.name=Staballoy锭
-item.contenttweaker.excited_mek_alloy.name=Irradiated Alloy
-item.contenttweaker.component_mek_alloy.name=Dense Component
-item.contenttweaker.ingot_mek_alloy.name=§6Heavy Alloy
-item.contenttweaker.plate_mek_alloy.name=§6Heavy Alloy Plate
-item.contenttweaker.gear_mek_alloy.name=§6Heavy Alloy Gear
-item.contenttweaker.rod_mek_alloy.name=§6Heavy Alloy杆
-tile.contenttweaker.block_mek_alloy.name=§6Block of Heavy Alloy
-tile.contenttweaker.sheetmetal_mek_alloy.name=§6Heavy Alloy板方块
-tile.contenttweaker.scaffolding_mek_alloy.name=§6Heavy Alloy脚手架
+item.contenttweaker.hot_cobalt.name=活性钴锭
+fluid.base_mirion=蕴魔秘银基液
+fluid.prepared_mirion=预制蕴魔秘银液
 
 
-tile.contenttweaker.sheetmetal_cast.name=Sheetmetal Cast
+item.contenttweaker.ingot_staballoy.name=贫铀合金锭
+item.contenttweaker.excited_mek_alloy.name=辐照合金
+item.contenttweaker.component_mek_alloy.name=致密组件
+item.contenttweaker.ingot_mek_alloy.name=§6重金属合金
+item.contenttweaker.plate_mek_alloy.name=§6重金属合金板
+item.contenttweaker.gear_mek_alloy.name=§6重金属合金齿轮
+item.contenttweaker.rod_mek_alloy.name=§6重金属合金杆
+tile.contenttweaker.block_mek_alloy.name=§6重金属合金块
+tile.contenttweaker.sheetmetal_mek_alloy.name=§6重金属合金板方块
+tile.contenttweaker.scaffolding_mek_alloy.name=§6重金属合金脚手架
 
 
-item.contenttweaker.grindingball_mixedwill.name=§bIndomitable Grinding Ball
-item.contenttweaker.plate_engineering.name=§eMechanical Plating
-item.contenttweaker.warp_remover.name=Staff of Sanity
+tile.contenttweaker.sheetmetal_cast.name=板方块铸模
 
 
-tile.contenttweaker.scaffolding_plastic.name=PlaStick脚手架
+item.contenttweaker.grindingball_mixedwill.name=§b不屈不挠的研磨球
+item.contenttweaker.plate_engineering.name=§e机械电镀
+item.contenttweaker.warp_remover.name=理智的工作人员
 
-tile.contenttweaker.book_block.name=Tome of Magic
+
+tile.contenttweaker.scaffolding_plastic.name=塑料棒脚手架
+
+tile.contenttweaker.book_block.name=魔法宝典
 
 
 
-item.contenttweaker.crystal_seed.name=Crystalized Aetherium
-fluid.condensed_aetherium=Condensed Aetherium
+item.contenttweaker.crystal_seed.name=晶化天华
+fluid.condensed_aetherium=浓缩天华
 
-fluid.crystal_slurry=Crystal Slag
+fluid.crystal_slurry=水晶炉渣
 
-item.contenttweaker.steelcast.name=Steel Cast
-item.contenttweaker.steelcast_armor_plate.name=Armor Plates钢铸模
-item.contenttweaker.steelcast_armor_trim.name=Armor Trim钢铸模
-item.contenttweaker.steelcast_arrow_head.name=Arrow Head钢铸模
-item.contenttweaker.steelcast_arrow_shaft.name=Arrow Shaft钢铸模
-item.contenttweaker.steelcast_axe_head.name=Axe Head钢铸模
-item.contenttweaker.steelcast_battery_cell.name=Battery Cell钢铸模
-item.contenttweaker.steelcast_binding.name=Binding钢铸模
-item.contenttweaker.steelcast_boots_core.name=Boots Core钢铸模
-item.contenttweaker.steelcast_bow_limb.name=Bowlimb钢铸模
-item.contenttweaker.steelcast_bow_string.name=Bowstring钢铸模
+item.contenttweaker.steelcast.name=钢铸模
+item.contenttweaker.steelcast_armor_plate.name=护甲板钢铸模
+item.contenttweaker.steelcast_armor_trim.name=护甲夹板钢铸模
+item.contenttweaker.steelcast_arrow_head.name=箭头钢铸模
+item.contenttweaker.steelcast_arrow_shaft.name=箭杆钢铸模
+item.contenttweaker.steelcast_axe_head.name=斧刃钢铸模
+item.contenttweaker.steelcast_battery_cell.name=蓄电池钢铸模
+item.contenttweaker.steelcast_binding.name=绑定结钢铸模
+item.contenttweaker.steelcast_boots_core.name=靴子基底钢铸模
+item.contenttweaker.steelcast_bow_limb.name=弓臂钢铸模
+item.contenttweaker.steelcast_bow_string.name=弓弦钢铸模
 item.contenttweaker.steelcast_broad_axe_head.name=Broad Axe Head钢铸模
 item.contenttweaker.steelcast_chest_core.name=Chestplate Core钢铸模
 item.contenttweaker.steelcast_chisel_head.name=Chisel Head钢铸模
